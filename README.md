@@ -49,8 +49,11 @@ Copy `.env.example` to `.env.local` and fill in your values:
 cp .env.example .env.local
 ```
 MONGODB_URI= # your MongoDB Atlas connection string (non-SRV format)
+
 MONGODB_USER= # database username
+
 MONGODB_PASS= # database password
+
 JWT_SECRET= # random 32-byte hex string
 
 To generate a JWT secret:
