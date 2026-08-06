@@ -31,7 +31,7 @@ A full-stack reading list app built with the MERN stack and Next.js. Users can s
 **1. Clone the repo**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/book-manager.git
+git clone https://github.com/rahulmakhijasg8/book-manager.git
 cd book-manager
 ```
 
